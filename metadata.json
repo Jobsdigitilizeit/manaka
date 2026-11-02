@@ -1,0 +1,6 @@
+{
+  "name": "Skillix - AI Skill Analyser & Job Matching",
+  "description": "South African AI-powered labor market skills analyser, gap diagnostic, job matching, employer job advertising & applicant tracking portal, talent post broadcasting, and admin intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
